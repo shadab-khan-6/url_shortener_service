@@ -1,6 +1,6 @@
 # Compliance
 
-Framework gaps identified for **sirf project name badla hain** (close each and check it off):
+Framework gaps identified for **CHucha the king** (close each and check it off):
 
 - [ ] License Compliance
 - [ ] Code Provenance
