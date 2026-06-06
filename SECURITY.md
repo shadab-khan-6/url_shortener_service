@@ -1,6 +1,6 @@
 # Security Policy
 
-Scaffolded by Safeguard auto-remediation to close compliance gaps for **shadab-khan-6/url_shortener_service**.
+Scaffolded by Safeguard auto-remediation to close compliance gaps for **Deep-url**.
 
 ## Reporting a Vulnerability
 
