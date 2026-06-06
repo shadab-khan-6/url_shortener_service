@@ -1,6 +1,6 @@
 # Security Policy
 
-Scaffolded by Safeguard auto-remediation to close compliance gaps for **sirf project name badla hain**.
+Scaffolded by Safeguard auto-remediation to close compliance gaps for **shadab-khan-6/url_shortener_service**.
 
 ## Reporting a Vulnerability
 
