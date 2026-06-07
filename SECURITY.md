@@ -1,19 +1,11 @@
 # Security Policy
 
-This policy was scaffolded by Safeguard auto-remediation to strengthen the
-security posture of **shadab-khan-6/url_shortener_service**.
+Scaffolded by Safeguard auto-remediation to close compliance gaps for **progressive chinta ta chinta ta **.
 
 ## Reporting a Vulnerability
 
 Please report security issues to the project maintainers. We aim to acknowledge
-reports within 3 business days and to provide a remediation timeline thereafter.
-
-## Hardening Checklist
-
-- [ ] Enable Dependabot security & version updates (see `.github/dependabot.yml`)
-- [ ] Enable secret scanning and push protection
-- [ ] Require code review and status checks before merge on protected branches
-- [ ] Enable CodeQL / SAST scanning in CI
+reports within 3 business days.
 
 ## Supported Versions
 
