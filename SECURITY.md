@@ -1,7 +1,7 @@
 # Security Policy
 
 This policy was scaffolded by Safeguard auto-remediation to strengthen the
-security posture of **shadab-khan-6/url_shortener_service**.
+security posture of **progressive chinta ta chinta ta **.
 
 ## Reporting a Vulnerability
 
